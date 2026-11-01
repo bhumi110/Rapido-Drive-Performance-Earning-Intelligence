@@ -1,4 +1,4 @@
-# Rapido Drive Performance & Earning Intelligence
+# Rapido Driver Performance & Earning Intelligence
 
 An interactive **Power BI analytics project** focused on analyzing Rapido's driver ecosystem across earnings, operational performance, service quality, and recruitment.
 
